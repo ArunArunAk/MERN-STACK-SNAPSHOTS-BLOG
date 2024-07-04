@@ -1,0 +1,36 @@
+{
+  "Details" :[
+    {
+        "food_id": 1,  
+        "name": "John Doe",  
+        "food_name": "Gaming ",  
+        "grade": "10th" 
+      },
+      {
+        "food_id": 2, 
+        "name": "Jane Smith", 
+        "food_name": "Politics",  
+        "grade": "12th"  
+      },
+      {
+        "food_id": 3, 
+        "name": "David Lee", 
+        "food_name": "Politics",
+        "grade": "11th" 
+      },
+      {
+        "food_id": 4,  
+        "name": "Alice Johnson",  
+        "food_name": "Travel",
+        "grade": "17th" 
+      },
+      {
+        "food_id": 5,  
+        "name": " Johnson",  
+        "food_name": "Travel",
+        "grade": "16th" 
+      }
+      
+    ]
+  }
+    

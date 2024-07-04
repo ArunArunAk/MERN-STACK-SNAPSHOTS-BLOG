@@ -1,0 +1,11 @@
+{
+    "register": [
+      {
+        "name": "Arun G",
+        "email": "arunarun2gs@gmail.com",
+        "phone": "09361310774",
+        "password": "111111",
+        "confirmpassword": "111111"
+      }
+    ]
+  }

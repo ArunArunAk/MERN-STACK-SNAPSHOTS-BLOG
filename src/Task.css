@@ -1,0 +1,26 @@
+button {
+    width: 100%;
+    color: black; /* Initial text color */
+    padding: 10px;
+    border-radius: 20px; /* Optional for rounded corners */
+    cursor: pointer; /* Indicate interactivity on hover */
+  }
+  
+  button:hover {
+    /* Optional hover effect */
+    opacity: 0.8; /* Slightly reduce opacity on hover */
+    color: white; /* Text color after click */
+    background-color: black; /* Background color after click */
+  }
+  
+.tasklist1  li{
+    color:olivedrab
+}
+
+.tasklist2  li{
+    color:blueviolet
+}
+
+.tasklist3 li{
+    color:gold
+}
